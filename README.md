@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @TeamGalacticMC
+- 👨‍💻 Develper
+- 👋 Hi, I’m CapoDev23
 - ¡Hola! Soy un programador apasionado 💻 con habilidades en HTML, CSS, JS, PHP, MySQL, Python, C# y Angular.
 -  Amante de los videojuegos 🎮, me fascinan especialmente los de simulación y supervivencia.
 -  Me encanta crear experiencias web impactantes y aplicaciones versátiles.
